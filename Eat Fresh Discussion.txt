@@ -1,0 +1,72 @@
+
+
+                                          ***___Eat Fresh___***
+
+Why Eat Fresh ?
+
+Generally Students and Bachelors who get relocated from their hometown for work or study related purposes, These people usually face a lot of problems  acquiring  daily food which is of good quality , that's healthy and hygienic and also pocket friendly at the same time so that one can gave that everyday of the month as their staple, usually managing food becomes a big challenge for this people , In fact a lot of them fall sick because of irregular food habits that people develop when they live outside of home, The only way to solve this is if people like this found a source a good food that's like home cooked food which is good for the health and also something reasonable that can be afforded 2 times a day everyday, So we came up with the idea of having a meal service plan app where we provide our users various food plans to choose from depending upon their needs, The basic idea is to provide good and hygienic food at a reasonable(affordable) rate.
+
+
+Mentor : Sourav Das
+
+Project Members : Souvik Das , Jhankar Dewangan
+ 
+ 
+    
+                                         ***___Userflow___*** 
+
+
+      
+      1st Scenario(a)                                            2nd Scenario
+
+    - User opens the app.   
+    - Choose a City
+    - If not logged in.                                          If logged in***
+    - Browse Plans Page                   
+    - if user tries to access
+    - Any other feature or page
+    - Redirect to Log in page*
+    - if user is already registered     1st Scenario(b)
+    - User logs in                       - user goes to register page
+    - Home Page Shows up                 - user registers normally or with 
+                                           Google sign in (send congrats mail)
+                                     
+    - Home Page shows up.
+
+
+
+   2nd Scenario ( if User is Logged in)
+
+
+   - User opens the website
+   - Home Page shows up
+
+
+                                          ***____Pages___*** 
+
+       - Registration Page
+       - Login Page 
+       - Home Page
+       - About Us
+       - Contact Us
+       - Browse Plans(---- Choose Plan) ***
+       - Choose Plans and time(----- Choose Time 7/14/30/custom days)----(proceed to payment)
+       - Add Address
+       - payments(choose payment type) ( Research )
+       - My Plans ( remaining credits )
+       - User Details Page 
+       
+ 
+
+
+Tasks :
+
+1. Watch PRD video
+2. Check how Swiggy and Zomato or Flipkart manage the payments section take inspiration
+
+
+ Things needed to be added :
+ 1 . Breakfast 
+ 2 . Delivery at 2 different locations
+ 3 . Available in 10 cities
+ 4 . 

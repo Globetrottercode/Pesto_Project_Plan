@@ -20,7 +20,8 @@ Project Members : Souvik Das , Jhankar Dewangan
       1st Scenario(a)                                            2nd Scenario
 
     - User opens the app.   
-    - Choose a City
+    - Ask location(entry type - enter location or get located by avaiable services)
+    - 
     - If not logged in.                                          If logged in***
     - Browse Plans Page                   
     - if user tries to access
@@ -44,6 +45,8 @@ Project Members : Souvik Das , Jhankar Dewangan
 
                                           ***____Pages___*** 
 
+                                   Pages
+
        - Registration Page
        - Login Page 
        - Home Page
@@ -55,6 +58,9 @@ Project Members : Souvik Das , Jhankar Dewangan
        - payments(choose payment type) ( Research )
        - My Plans ( remaining credits )
        - User Details Page 
+       - User Dashboard Page
+       - Dynamic root page( checks if user logged in / if user has or had a plan)
+
        
  
 
@@ -69,4 +75,4 @@ Tasks :
  1 . Breakfast 
  2 . Delivery at 2 different locations
  3 . Available in 10 cities
- 4 . 
+ 4 . q
